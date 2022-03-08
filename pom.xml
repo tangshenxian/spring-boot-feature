@@ -11,6 +11,7 @@
     <modules>
         <module>feature-encrypt</module>
         <module>feature-common</module>
+        <module>feature-jedis</module>
     </modules>
 
     <parent>
