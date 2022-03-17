@@ -12,6 +12,7 @@
         <module>feature-encrypt</module>
         <module>feature-common</module>
         <module>feature-jedis</module>
+        <module>feature-completable-future</module>
     </modules>
 
     <parent>
