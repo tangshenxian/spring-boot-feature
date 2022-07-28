@@ -14,6 +14,7 @@
         <module>feature-jedis</module>
         <module>feature-completable-future</module>
         <module>feature-druid</module>
+        <module>strategy-pattern</module>
     </modules>
 
     <parent>
